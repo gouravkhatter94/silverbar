@@ -1,3 +1,5 @@
+Silverbar is a general orders and report template with reactjs and material ui.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
